@@ -68,6 +68,11 @@ body {
     transform: translateY(-2px); /* Lift effect on hover */
 }
 
+/*#Categories {
+    background-color: #40242484;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}*/
 
 
 .featured-product-card {
